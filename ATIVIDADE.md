@@ -6,7 +6,7 @@ Repositorio de Teste Introdução
 2. Comprar comida
 3. Jogar
 
-##GITHUB
+#GITHUB
 
 ```
 #include <stdio.h>
