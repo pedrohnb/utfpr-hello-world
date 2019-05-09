@@ -1,12 +1,12 @@
-Repositorio de Teste Introdução
+# Repositorio de Teste Introdução
 
-#GIT
+## GIT
 
 1. Ir no Banco
 2. Comprar comida
 3. Jogar
 
-#GITHUB
+### GITHUB
 
 ```
 #include <stdio.h>
